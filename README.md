@@ -1,2 +1,1 @@
-# Stage-333-VN
-Experimental visual novel by Fatum Black 
+<img src="https://github.com/fatumblack/Stage-333-VN/blob/main/screenshots.jpg">
