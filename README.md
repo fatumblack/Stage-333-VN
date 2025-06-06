@@ -14,6 +14,6 @@ Stage 333 — короткая игра, занимающая примерно 5
 
 Платформы: Windows, macOS, Linux
 
-Доступные языки: Русский, Украинский
+Доступные языки: Русский, Украинский, Английский
 
 <img src="https://github.com/fatumblack/Stage-333-VN/blob/main/screenshots.jpg">
